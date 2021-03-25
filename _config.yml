@@ -1,7 +1,7 @@
 site: Duet Jekyll Theme
 
-url: 
-baseurl: 
+url: zeynoustun.github.io
+baseurl: /portfolio
 
 collections:
   pages:
